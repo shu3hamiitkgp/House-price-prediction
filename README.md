@@ -1,6 +1,6 @@
 # House-price-prediction
 
-In this project we're creating a house price predictor application for Bengaluru city in India (Data used from {Kaggle}(https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data). 
+In this project we're creating a house price predictor application for Bengaluru city in India (Data used from [Kaggle](https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data). 
 
 ## Functionalities 
 
